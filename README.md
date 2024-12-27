@@ -16,6 +16,3 @@ python -m unittest discover -s tests
 ```commandline
 python -m unittest .\tests\test_map_builder.py
 ```
-
-# Learning notes
-[notes](./notes.md)
